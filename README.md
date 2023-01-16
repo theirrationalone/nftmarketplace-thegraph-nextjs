@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NFT MARKETPLACE x Hardhat and The Graph
 
-## Getting Started
+This is a NFT Market Place Frontend project bootstrapped with Hardhat and The Graph and the Nexjs.
 
-First, run the development server:
+Setting Up Things🚀🚀🚀
+Go [here](https://github.com/theirrationalone/NFTMarketplace-hardhat.git) and download that Repository. After that Try Running this command given below...
 
-```bash
+In Local development node, You won't be able to make query from The Graph.
+
+Follow [this](https://github.com/theirrationalone/NFTMarketplace-hardhat/blob/main/README.md) README file if you're getting any problem with that Repository.
+
+Now Come Back to Frontend Project and, run the development server:
+
+```shell
 npm run dev
+
 # or
+
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Now Frontend might be running on your machine without any issue, So Make Interactions... with my project(s) / Full-Stack :)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Note
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Be Assure that Your nft is approved for nft-marketplace otherwise you will have to face some issues while selling, witdrawing your funds.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+if you're getting errors i.e. 'intrinsic transactio' or 'nonce' error, Please Reset Your Wallet's Transaction sequences... don't know how to do that, don't worry, Go [here](https://github.com/theirrationalone/FundMe-hardhat-frontend/blob/main/ReadMe.md)
 
-## Learn More
+<br/>
+<br/>
+<br/>
+<br/>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Thank YOu! :) 🏴‍☠️
